@@ -253,10 +253,11 @@ header .intro-text {
 
 header .intro-text > section {
   border-radius: 100px;
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(9, 71, 157, 0.27);
   margin-bottom: 10px;
   padding-top: 10px;
   padding-bottom: 1px;
+  border: 2px dashed rgb(1, 1, 101);
 }
 
 /* Features Section */
