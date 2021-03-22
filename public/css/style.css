@@ -41,7 +41,7 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-size: 20px;
 }
 p.intro {
   margin: 12px 0 0;
@@ -165,7 +165,7 @@ hr {
   left: 50%;
 }
 .section-title p {
-  font-size: 18px;
+  font-size: 20px;
 }
 .btn-custom {
   font-family: "Raleway", sans-serif;
