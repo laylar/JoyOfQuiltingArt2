@@ -171,8 +171,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #5ca9fb8e;
+  background-image: linear-gradient(to right, #5ca9fb6a 0%, #6373ff6b 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -189,7 +189,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #828ce3d6;
 }
 .btn:active,
 .btn.active {
@@ -252,9 +252,10 @@ header .intro-text {
 }
 
 header .intro-text > section {
+  border-radius: 100px;
   background: rgba(0, 0, 0, 0.35);
   margin-bottom: 10px;
-  padding-top: 1px;
+  padding-top: 10px;
   padding-bottom: 1px;
 }
 
