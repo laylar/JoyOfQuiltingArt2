@@ -333,10 +333,10 @@ header .intro-text > section {
   color: #fff;
   background: linear-gradient(
     to right,
-    rgba(169, 173, 215, 0.8) 0%,
-    rgba(158, 92, 251, 0.8) 100%
+    rgba(133, 133, 133, 0.332) 0%,
+    rgba(158, 92, 251, 0.318) 100%
   );
-  padding: 20% 1% 1% 1%;
+  padding: 10% 1% 1% 1%;
   height: 100%;
   width: 100%;
   opacity: 0;
