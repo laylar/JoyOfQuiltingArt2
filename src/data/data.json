@@ -34,11 +34,10 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "Seattle, WA",
+        "etsy": "https://www.etsy.com/ca/shop/SewingWithJamie",
+        "etsyname": " SewingWithJamie",
+        "instagram": "https://www.instagram.com/stitchingwithjamie/",
+        "instaname": " StitchingWithJamie"
     }
 }

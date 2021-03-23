@@ -1205,6 +1205,10 @@
 .fa-instagram:before {
   content: "\f16d";
 }
+.fa-etsy:before {
+  content: "\0045";
+  font-family: georgia, serif;
+}
 .fa-flickr:before {
   content: "\f16e";
 }
