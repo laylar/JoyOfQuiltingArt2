@@ -124,8 +124,7 @@ export const Contact = (props) => {
           <p>
             &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
             <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+              TemplateWire. </a>Customization and Content by <a href="https://www.laylarowen.com">Layla.</a>
           </p>
         </div>
       </div>
