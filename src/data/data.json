@@ -4,10 +4,11 @@
         "paragraph": "Let me tell you a story or help you tell yours!"
     },
     "About": {
-        "paragraph": "Here is where a description of the crafty work Jamie does will go.",
+        "paragraph": "I delight in creating beautiful things with thread, fabric, and imagination. If I can imagine it, I can make it.",
         "What": [
-            "Quilts",
+            "Quilt Design",
             "Freemotion Quilts",
+            "Quilt Blocks",
             "Clothing",
             "Plushies"
         ],
@@ -15,7 +16,8 @@
             "Wall Hangings",
             "Table Runners",
             "Multimedia Crafts",
-            "Your dream come true"
+            "Custom Items",
+            "Your Dream Come True"
         ]
     },
     "Team": [
